@@ -9,6 +9,7 @@
 
     <artifactId>multi1</artifactId>
     <packaging>jar</packaging>
+    <version>3.6-SNAPSHOT</version>
     <name>Multi 1</name>
 
 

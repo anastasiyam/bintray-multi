@@ -5,7 +5,7 @@
 		"private": false,
 		"premium": false,
 		"desc": "askme",
-		"labels": [ "label2", "label3"],
+		"labels": [ "label2", "label3"]
 	
 	},
   "package": {

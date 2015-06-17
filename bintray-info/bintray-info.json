@@ -4,13 +4,13 @@
 		"type": "generic",
 		"private": false,
 		"premium": false,
-		"desc": "My test repo",
-		"labels": ["label1", "label2"],
-		"updateExisting": false
+		"desc": "test22",
+		"labels": [ "label2"],
+		"updateExisting": true
 	},
   "package": {
     "name": "auto-upload",
-   
+    "repo": "frog",
     "subject": "ana",
     "desc": "I was pushed completely automatically",
     "website_url": "www.jfrog.com",

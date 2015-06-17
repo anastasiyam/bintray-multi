@@ -3,10 +3,10 @@
 		"name": "frog",
 		"type": "generic",
 		"private": false,
-		"premium": false,
+		
 		"desc": "mineeeeee",
 		"labels": [ "label2", "label3"],
-		"updateExisting": true
+		"updateExisting": false
 	
 	},
   "package": {

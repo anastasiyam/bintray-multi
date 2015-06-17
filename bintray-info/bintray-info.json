@@ -6,7 +6,7 @@
 		"premium": false,
 		"desc": "mineeeeee",
 		"labels": [ "label2", "label3"],
-		"updateExisting": false
+		"updateExisting": true
 	
 	},
   "package": {

@@ -4,9 +4,9 @@
 		"type": "generic",
 		"private": false,
 		"premium": false,
-		"desc": "test22",
-		"labels": [ "label2"],
-		"updateExisting": true
+		"desc": "askme",
+		"labels": [ "label2", "label3"],
+	
 	},
   "package": {
     "name": "auto-upload",

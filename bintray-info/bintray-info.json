@@ -3,7 +3,7 @@
 		"name": "frog",
 		"type": "generic",
 		"private": false,
-		"premium": true,
+		"premium": false,
 		"desc": "My test repo",
 		"labels": ["label1", "label2"],
 		"updateExisting": false

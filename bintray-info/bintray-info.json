@@ -1,4 +1,13 @@
 {
+  "repo": {
+		"name": "frog",
+		"type": "generic",
+		"private": false,
+		"premium": true,
+		"desc": "My test repo",
+		"labels": ["label1", "label2"],
+		"updateExisting": false
+	},
   "package": {
     "name": "auto-upload",
     "repo": "frog",

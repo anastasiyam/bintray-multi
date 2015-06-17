@@ -5,12 +5,13 @@
 		"private": false,
 		"premium": false,
 		"desc": "mineeeeee",
-		"labels": [ "label2", "label3"]
+		"labels": [ "label2", "label3"],
+		"updateExisting": false
 	
 	},
   "package": {
     "name": "auto-upload",
-    "repo": "frogy",
+    "repo": "frog",
     "subject": "ana",
     "desc": "I was pushed completely automatically",
     "website_url": "www.jfrog.com",

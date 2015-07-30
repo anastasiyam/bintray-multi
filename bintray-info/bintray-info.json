@@ -3,7 +3,7 @@
 		"name": "frog",
 		"type": "generic",
 		"private": false,
-		"premium": true,
+		"premium": false,
 		"desc": "mineeeeee",
 		"labels": [ "label2", "label3"],
 		"updateExisting": false

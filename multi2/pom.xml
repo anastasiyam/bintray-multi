@@ -30,7 +30,7 @@
                 <groupId>org.apache.tomcat</groupId>
                 <artifactId>tomcat-jdbc</artifactId>
                 <version>7.0.47</version>
-                <scope>test</scope>
+                <scope>compile,dan</scope>
             </dependency>
              <dependency>
                 <groupId>cglib</groupId>
